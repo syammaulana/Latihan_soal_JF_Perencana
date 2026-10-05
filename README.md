@@ -9,9 +9,9 @@ Pembangunan.
 ```
 index.html          <- tampilan & logika aplikasi (tidak perlu diubah untuk tambah soal)
 data/ekonomi.json    <- 216 soal
-data/sosial.json     <- 204 soal
-data/spasial.json    <- 239 soal
-data/teknis.json     <- 292 soal
+data/sosial.json     <- 360 soal
+data/spasial.json    <- 236 soal
+data/teknis.json     <- 382 soal
 ```
 
 Setiap kali latihan dimulai, aplikasi mengambil **14 soal acak** dari Ekonomi, Sosial,
