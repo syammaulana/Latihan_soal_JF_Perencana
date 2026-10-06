@@ -11,7 +11,7 @@ index.html          <- tampilan & logika aplikasi (tidak perlu diubah untuk tamb
 data/ekonomi.json    <- 216 soal
 data/sosial.json     <- 360 soal
 data/spasial.json    <- 236 soal
-data/teknis.json     <- 382 soal
+data/teknis.json     <- 383 soal
 ```
 
 Setiap kali latihan dimulai, aplikasi mengambil **14 soal acak** dari Ekonomi, Sosial,
